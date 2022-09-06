@@ -1,3 +1,2 @@
 #!/bin/bash
-alias ls='Name'
-alias rm *='Value'
+alias rm *="ls"
